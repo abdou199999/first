@@ -1,1 +1,3 @@
-print('hamdi')
+a = 5
+
+print(a)
